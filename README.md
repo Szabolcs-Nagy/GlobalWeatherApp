@@ -3,7 +3,7 @@
 # Global Weather App (Compose Multiplatform)
 
 A beautiful, fully animated weather application built with Kotlin Multiplatform and Jetpack Compose. Write once, run seamlessly on both Android and iOS with a fully native feel.
-<img width="1080" height="2280" alt="launcher icon" src="https://github.com/user-attachments/assets/a34ea8e5-ff50-4590-94ff-4cdb6fcd71fd" />
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a34ea8e5-ff50-4590-94ff-4cdb6fcd71fd" width="200" alt="App Launch Icon"/>
   <br/>
@@ -21,7 +21,6 @@ When you first launch the app, you are greeted with a clean, dynamic background 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac156eca-1c23-41e1-998d-63f2fbac0bc4" width="300" alt="App Idle Screen"/>
 </p>
-<img width="1080" height="2280" alt="start page" src="https://github.com/user-attachments/assets/ac156eca-1c23-41e1-998d-63f2fbac0bc4" />
 
 ### Dynamic Weather Search
 
