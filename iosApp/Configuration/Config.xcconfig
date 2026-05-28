@@ -1,0 +1,11 @@
+TEAM_ID=
+
+PRODUCT_NAME=GlobalWeatherApp
+PRODUCT_BUNDLE_IDENTIFIER=com.coding.global_weather_app.GlobalWeatherApp$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
+
+// Secrets (API keys etc.) live in Secrets.xcconfig which is gitignored.
+// Copy iosApp/Configuration/Secrets.xcconfig.template to Secrets.xcconfig and fill in values.
+#include? "Secrets.xcconfig"
