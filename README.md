@@ -32,8 +32,6 @@ The background gradients and animations seamlessly morph from one state to anoth
 #### ☀️ Sunny Weather (Budapest)
 [https://github.com/user-attachments/assets/weather_budapest.mov](https://github.com/user-attachments/assets/88fb1406-b385-4e14-9a74-af3f24b70286)
 
-*(To view these videos on GitHub, simply drag and drop the local `.mov` files from `.github/assets/` into this document using the GitHub web editor.)*
-
 ---
 
 ## 🛠️ Architecture
